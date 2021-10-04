@@ -1,3 +1,5 @@
+&emsp;&emsp;![My codewars kyu!](https://www.codewars.com/users/AlgorithmEnigma/badges/micro)
+
 - 👋 Hi, I’m @AlgorithmEnigma aka Jordan Lowell
 - 👀 I’m interested in ... Blockchain, DeFi, Web3, UX/UI, JavaScript/TypeScript, Rust, Python
 - 🌱 I’m currently learning ... React, Web3, Rust
