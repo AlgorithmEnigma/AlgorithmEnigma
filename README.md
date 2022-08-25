@@ -1,4 +1,4 @@
-&emsp;&emsp;![My codewars kyu!](https://www.codewars.com/users/AlgorithmEnigma/badges/micro)
+&emsp; [![Hire on Contra](https://me7674.npkn.net/contra-badge/)](https://contra.com/jordan_lowell)
 
 
 - 👋 Hi, I’m @AlgorithmEnigma aka Jordan Lowell
