@@ -1,4 +1,5 @@
 &emsp; [![Hire on Contra](https://me7674.npkn.net/contra-badge/)](https://contra.com/jordan_lowell)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I6EMIHA)
 
 
 - 👋 Hi, I’m @AlgorithmEnigma aka Jordan Lowell
