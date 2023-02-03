@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @AlgorithmEnigma aka Jordan Lowell
 - 👀 I’m interested in ... Cloud Computing, Web Development, UX/UI Design
-- 🌱 Learning Goals for 2022 ... Cloudflare Pages, TypeScript, Design Patterns, Test Automation, Rust, DevOps, Docker, Terraform
+- 🌱 Learning Goals for 2023 ... Cloudflare Pages, TypeScript, Design Patterns, Test Automation, Rust, DevOps, Docker, Terraform
 - 🤹🏽 Skills I have ... AWS, Networking, Linux, Bash, Python, JavaScript/ES6, CSS/Tailwind, SvelteKit  
 - 📫 How to reach me ... You can find me here on LinkedIn: https://www.linkedin.com/in/jordandlowell/
 
